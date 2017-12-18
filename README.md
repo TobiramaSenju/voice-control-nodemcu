@@ -16,5 +16,5 @@ Working for all microcontrolers, that can parse text file from web (or JSON).
 * Arduino core for NodeMCU
 # Change language
 * Directory PHP index.php --> recognition.lang
-* English: recognition.lang = "en-US";
+* English (is ready in code): recognition.lang = "en-US";
 * For others language codes visit: https://msdn.microsoft.com/en-us/library/ms533052(v=vs.85).aspx
