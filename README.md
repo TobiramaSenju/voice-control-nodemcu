@@ -8,7 +8,7 @@ Working for all microcontrolers, that can parse text file from web (or JSON).
 * frontend: CSS, HTML, Javascript
 * speech-to-text: Webkit
 * NodeMCU sketch: Wiring language
-![alt text](http://www.veramate.com/Content/images/VeraMate/voice-control.png)
+* ![alt text](http://www.veramate.com/Content/images/VeraMate/voice-control.png)
 # For correct use you need
 * Webserver with HTTPS protocol
 * Browser Chrome
