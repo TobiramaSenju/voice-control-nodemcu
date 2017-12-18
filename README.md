@@ -3,6 +3,9 @@ Voice control for NodeMCU board with demo sketch .ino. Working with Chrome, HTTP
 Working for all microcontrolers, that can parse text file from web (or JSON).
 # DONATE ME for more IoT projects
 * https://www.paypal.me/Chlebovec
+# Methods of input
+* Click on field write text and click on submit button
+* Click on microphone and speak to microphone. After you stop talking, it will auto translate via AJAX.
 # Technologies in project
 * backend: PHP, AJAX
 * frontend: CSS, HTML, Javascript
