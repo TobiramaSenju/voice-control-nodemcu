@@ -14,6 +14,9 @@ Working for all microcontrolers, that can parse text file from web (or JSON).
 * Browser Chrome
 * Internet connection :-)
 * Arduino core for NodeMCU
+# Projekt is divided to two parts in repository
+* NodeMCU part - .ino file (libraries included in Arduino core)
+* Server part - PHP, img, AJAX, Webkit
 # Change language
 * Directory PHP index.php --> recognition.lang
 * English (is ready in code): recognition.lang = "en-US";
