@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h> 
-const int led = 2; //pin D4 on NodeMCU board
+const int led = 16; //pin D0 on NodeMCU board
 const char* ssid = "wifiname";
 const char* password = "wifipassword"; //wifipass
 const char* host = "mywebsite.com"; //without https and www
