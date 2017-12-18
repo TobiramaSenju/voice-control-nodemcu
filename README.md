@@ -25,7 +25,7 @@ Working for all microcontrolers, that can parse text file from web (or JSON).
 * English (is ready in code): recognition.lang = "en-US";
 * Working with all world languages!
 * For others language codes visit: https://msdn.microsoft.com/en-us/library/ms533052(v=vs.85).aspx
-# Supported commands
+# Supported commands in demo code for NodeMCU and PHP directory
 * (1 mean one) (2 mean two) (3 mean three) (4 mean four)
 * Turn on LED 1
 * Turn on LED 2
