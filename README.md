@@ -35,9 +35,6 @@ Working for all microcontrolers, that can parse text file from web (or JSON).
 * Turn off LED 2
 * Turn off LED 3
 * Turn off LED 4
-* Turn on
-* Turn on all
-* Start all
-* Turn off
-* Turn off all
-* Stop all
+* Turn on/Turn on all/Start All
+* Turn off/Turn off all/Stop all
+
