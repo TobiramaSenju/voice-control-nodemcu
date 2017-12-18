@@ -31,4 +31,4 @@ Working for all microcontrolers, that can parse text file from web (or JSON).
 # Wiring
 * ![alt text](https://cdn.instructables.com/F78/ZUOX/IKJ8C6U1/F78ZUOXIKJ8C6U1.MEDIUM.jpg)
 # Demo video
-* [link text](https://www.youtube.com/watch?v=FwcPEALti4Y "NodeMCU first test")
+* https://www.youtube.com/watch?v=FwcPEALti4Y
