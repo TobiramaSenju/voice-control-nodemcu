@@ -1,7 +1,7 @@
 # Voice control for NodeMCU
 Voice control for NodeMCU board with demo sketch .ino. Working with Chrome, HTTPS protocol must be on website.
 Working for all microcontrolers, that can parse text file from web (or JSON).
-# DONATE ME
+# DONATE ME for more IoT projects
 * https://www.paypal.me/Chlebovec
 # Technologies in project
 * backend: PHP, AJAX
