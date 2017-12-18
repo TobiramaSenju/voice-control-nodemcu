@@ -20,4 +20,5 @@ Working for all microcontrolers, that can parse text file from web (or JSON).
 # Change language
 * Directory PHP index.php --> recognition.lang
 * English (is ready in code): recognition.lang = "en-US";
+* Working with all world languages!
 * For others language codes visit: https://msdn.microsoft.com/en-us/library/ms533052(v=vs.85).aspx
