@@ -52,10 +52,10 @@
    
 
     
-           if ($translation=="turn on light"){
+           if ($translation=="turn on light" || $translation=="Turn on light"){
      
       file_put_contents("translations.txt", 'Turn on light');
-     }else if($translation=="turn off light"){
+     }else if($translation=="turn off light" || $translation=="Turn off light"){
            file_put_contents("translations.txt", 'Turn off light');
      }
      }
