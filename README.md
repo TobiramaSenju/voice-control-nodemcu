@@ -6,8 +6,8 @@ Working for all microcontrolers, that can parse text file from web (or JSON).
 # Instructables - How to setup project
 * https://www.instructables.com/id/NodeMCU-Voice-Control/
 # How it works
-* System use Webkit. It is technology that communicate with Google servers, where translation speech-to-text can be sucessful and can response back as clean text. 
-* You can work with text, for instance make voice control system for your dev board/home.
+* System use Webkit. Webkit send your voice to Google servers and there is speech-to-text process, it send you back clean text. 
+* You can work with text, in your bacend language (PHP) or you can use it for your voice control systems/projects.
 * ![alt text](https://i.nahraj.to/f/1TQ3.PNG)
 # Methods of input
 * Click on field write text and click on submit button
