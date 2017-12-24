@@ -5,6 +5,10 @@ Working for all microcontrolers, that can parse text file from web (or JSON).
 * https://www.paypal.me/Chlebovec
 # Instructables - How to setup project
 * https://www.instructables.com/id/NodeMCU-Voice-Control/
+# How it works
+* System use Webkit. It is technology that communicate with Google servers, where translation speech-to-text can be sucessful and can response back as clean text. 
+* You can work with text, for instance make voice control system for your dev board/home.
+* ![alt text](https://cdn.instructables.com/ORIG/FFK/4NTH/JBGU1OD8/FFK4NTHJBGU1OD8.png)
 # Methods of input
 * Click on field write text and click on submit button
 * Click on microphone and speak to microphone. After you stop talking, it will auto translate via AJAX.
